@@ -1,0 +1,199 @@
+[English]
+{
+    language: "English",
+    settingsButton: "Mod Settings",
+    languageButton: "Language",
+    languageHeader: "Mod Language !Not every mod will support each language!"
+}
+
+[Deutsch]
+{
+    language: "Deutsch",
+    settingsButton: "Mod Einstellungen",
+    languageButton: "Sprache",
+    languageHeader: "Mod Sprache !Nicht jeder Mod unterstützt jede Sprache!"
+}
+
+[Español]
+{
+    language: "Español",
+    settingsButton: "Configuración del Mod",
+    languageButton: "Idioma",
+    languageHeader: "Idioma del Mod ¡No todos los mods soportarán todos los idiomas!"
+}
+
+[Français]
+{
+    language: "Français",
+    settingsButton: "Paramètres du Mod",
+    languageButton: "Langue",
+    languageHeader: "Langue du Mod !Tous les mods ne prendront pas en charge chaque langue!"
+}
+
+[Italiano]
+{
+    language: "Italiano",
+    settingsButton: "Impostazioni Mod",
+    languageButton: "Lingua",
+    languageHeader: "Lingua del Mod !Non tutti i mod supporteranno tutte le lingue!"
+}
+
+[Nederlands]
+{
+    language: "Nederlands",
+    settingsButton: "Mod Instellingen",
+    languageButton: "Taal",
+    languageHeader: "Mod taal !Niet elke mod ondersteunt elke taal!"
+}
+
+[Português]
+{
+    language: "Português",
+    settingsButton: "Configurações do Mod",
+    languageButton: "Idioma",
+    languageHeader: "Idioma do Mod !Nem todos os mods suportam todos os idiomas!"
+}
+
+[日本語]
+{
+    language: "日本語 (Japanese)",
+    settingsButton: "モッド設定",
+    languageButton: "言語",
+    languageHeader: "モッドの言語 !すべてのモッドが各言語をサポートするわけではありません!"
+}
+
+[한국어]
+{
+    language: "한국어 (Korean)",
+    settingsButton: "모드 설정",
+    languageButton: "언어",
+    languageHeader: "모드 언어 !모든 모드가 모든 언어를 지원하는 것은 아닙니다!"
+}
+
+[中文]
+{
+    language: "中文 (Chinese)",
+    settingsButton: "模组设置",
+    languageButton: "语言",
+    languageHeader: "模组语言 !并非每个模组都支持每种语言!"
+}
+
+[Русский]
+{
+    language: "Русский (Russian)",
+    settingsButton: "Настройки мода",
+    languageButton: "Язык",
+    languageHeader: "Язык мода !Не все моды поддерживают каждый язык!"
+}
+
+[Polski]
+{
+    language: "Polski",
+    settingsButton: "Ustawienia Modów",
+    languageButton: "Język",
+    languageHeader: "Język Modów !Nie każdy mod obsługuje każdy język!"
+}
+
+[العربية]
+{
+    language: "العربية (Arabic)",
+    settingsButton: "إعدادات المود",
+    languageButton: "اللغة",
+    languageHeader: "لغة المود !ليس كل مود سيدعم كل اللغات!"
+}
+
+[Türkçe]
+{
+    language: "Türkçe",
+    settingsButton: "Mod Ayarları",
+    languageButton: "Dil",
+    languageHeader: "Mod Dili !Her mod her dili desteklemez!"
+}
+
+[हिन्दी]
+{
+    language: "हिन्दी (Hindi)",
+    settingsButton: "मोड सेटिंग्स",
+    languageButton: "भाषा",
+    languageHeader: "मोड की भाषा !हर मोड सभी भाषाओं का समर्थन नहीं करेगा!"
+}
+
+[Українська]
+{
+    language: "Українська (Ukrainian)",
+    settingsButton: "Налаштування мода",
+    languageButton: "Мова",
+    languageHeader: "Мова мода !Не всі моди підтримують усі мови!"
+}
+
+[Tiếng Việt]
+{
+    language: "Tiếng Việt",
+    settingsButton: "Cài đặt Mod",
+    languageButton: "Ngôn ngữ",
+    languageHeader: "Ngôn ngữ của Mod !Không phải mod nào cũng hỗ trợ tất cả ngôn ngữ!"
+}
+
+[Ελληνικά]
+{
+    language: "Ελληνικά (Greek)",
+    settingsButton: "Ρυθμίσεις Mod",
+    languageButton: "Γλώσσα",
+    languageHeader: "Γλώσσα του Mod !Όλοι οι mod δεν υποστηρίζουν όλες τις γλώσσες!"
+}
+
+[Magyar]
+{
+    language: "Magyar",
+    settingsButton: "Mod beállítások",
+    languageButton: "Nyelv",
+    languageHeader: "Mod nyelve !Nem minden mod támogatja az összes nyelvet!"
+}
+
+[Čeština]
+{
+    language: "Čeština",
+    settingsButton: "Nastavení Modu",
+    languageButton: "Jazyk",
+    languageHeader: "Jazyk Modu !Ne každý mod podporuje všechny jazyky!"
+}
+
+[Svenska]
+{
+    language: "Svenska",
+    settingsButton: "Modinställningar",
+    languageButton: "Språk",
+    languageHeader: "Mod-språk !Alla moddar stöder inte alla språk!"
+}
+
+[Suomi]
+{
+    language: "Suomi",
+    settingsButton: "Modin asetukset",
+    languageButton: "Kieli",
+    languageHeader: "Modin kieli !Kaikki modit eivät tue kaikkia kieliä!"
+}
+
+[Română]
+{
+    language: "Română",
+    settingsButton: "Setări Mod",
+    languageButton: "Limbă",
+    languageHeader: "Limba Modului !Nu toate modurile suportă toate limbile!"
+}
+
+[Bahasa Indonesia]
+{
+    language: "Bahasa Indonesia",
+    settingsButton: "Pengaturan Mod",
+    languageButton: "Bahasa",
+    languageHeader: "Bahasa Mod !Tidak semua mod mendukung setiap bahasa!"
+}
+
+[ภาษาไทย]
+{
+    language: "ภาษาไทย (Thai)",
+    settingsButton: "การตั้งค่า Mod",
+    languageButton: "ภาษา",
+    languageHeader: "ภาษาของ Mod !ไม่ใช่ทุก Mod ที่รองรับทุกภาษา!"
+}

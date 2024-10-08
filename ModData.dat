@@ -1,0 +1,22 @@
+{
+    dependencies: [],
+	soft_dependencies: [
+		"ExternalConsole"
+	],
+    load_order: [
+        "Main",
+        "MethodUtils/MethodHooks",
+        "Translation",
+        {"Utility" => []},
+        {"Database" => [
+            "DataManager",
+            "DatabaseConstants",
+            "DatabaseItemAttributes",
+            "Features",
+            "Learnings"
+        ]},
+        {"Events" => []},
+        {"Scenes" => []},
+        "Settings"
+    ]
+}
